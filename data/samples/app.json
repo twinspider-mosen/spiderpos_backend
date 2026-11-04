@@ -1,0 +1,96 @@
+[
+  {
+    "id": "app_settings",
+    "app_type": [
+      "food",
+      "store",
+      "cloth_shop",
+      "restaurent"
+    ],
+    "app_features": {
+      "food": {
+        "purchase": {
+          "custom_dropdowns": {},
+          "custom_fields": {
+            "bilty_no": "text",
+            "invoice_no": "text"
+          }
+        },
+        "sale": {
+          "custom_dropdowns": {
+            "serving": [
+              "dine_in",
+              "take_away",
+              "delivery"
+            ]
+          },
+          "custom_fields": {
+            "order_by": "text",
+            "phone": "text",
+            "table_no": "text"
+          }
+        }
+      },
+      "store": {
+        "purchase": {
+          "custom_dropdowns": {},
+          "custom_fields": {
+            "bilty_no": "text",
+            "invoice_no": "text"
+          }
+        },
+        "sale": {
+          "custom_dropdowns": {
+            "serving": [
+              "dine_in",
+              "take_away",
+              "delivery"
+            ]
+          },
+          "custom_fields": {
+            "order_by": "text",
+            "phone": "text",
+            "table_no": "text"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "debugging",
+    "debug": {
+      "clean_shared_prefs": true,
+      "device_id": true,
+      "shared_prefs": true
+    },
+    "release": {
+      "clean_shared_prefs": false,
+      "device_id": false,
+      "shared_prefs": false
+    }
+  },
+  {
+    "id": "default_menbership_status",
+    "screen": "default_membership_status",
+    "status": "active",
+    "membership_status": [
+      "active",
+      "expired",
+      "pending_verification"
+    ]
+  },
+  {
+    "id": "software_by",
+    "screen": "invoice",
+    "contact": "",
+    "info": "Software By TwinSpider | 0339 339 8 339",
+    "logo": "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"
+  },
+  {
+    "id": "subscription_expired_screen",
+    "screen": "expired",
+    "title": "Subscription Expired",
+    "description": "Your subscription has been expired! Please contact customer support and renew your subscription in order to continue. Thanks",
+    "action": "https://wa.me/+923206300660?text=Hello%2C%0A%0AI%20would%20like%20to%20renew%20my%20subscription%20for%20the%20Invoice%20App.%0APlease%20proceed%20with%20the%20renewal%20at%20your%20earliest%20convenience.%0A%0AThank%20you%21"
+  }
+]

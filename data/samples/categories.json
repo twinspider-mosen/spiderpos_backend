@@ -1,0 +1,120 @@
+[
+  {
+    "id": "1QirMmfgPWiOedrSwqnH",
+    "category_code": "0026",
+    "category_type": "finished",
+    "is_active": true,
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "pct_code": null,
+    "product_count": 0,
+    "category_name": "Wallet",
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "tax_rate": null,
+    "further_tax": null
+  },
+  {
+    "id": "2PaYKSvFTLrSS1hDvTWY",
+    "category_code": "0025",
+    "category_name": "Cufflinks",
+    "category_type": "finished",
+    "created_by": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "is_active": true,
+    "product_count": 0,
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
+  },
+  {
+    "id": "3L30VwmjmUMeiQYu66aM",
+    "category_code": "0020",
+    "category_name": "Underwear",
+    "category_type": "finished",
+    "created_by": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "is_active": true,
+    "product_count": 0,
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
+  },
+  {
+    "id": "4eKM0WBTLaSNMlfE5BqL",
+    "category_code": "0055",
+    "category_name": "Ladies Jersi",
+    "category_type": "finished",
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "further_tax": null,
+    "is_active": true,
+    "pct_code": null,
+    "product_count": 0,
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "tax_rate": null
+  },
+  {
+    "id": "5C3JGP2A7lUkxRFfi78a",
+    "further_tax": null,
+    "is_active": true,
+    "tax_rate": null,
+    "category_code": "0015",
+    "pct_code": null,
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "category_name": "Track Suit Winter Gents",
+    "product_count": 0,
+    "category_type": "finished",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
+  },
+  {
+    "id": "5hgHyNTh509lgIZAesCi",
+    "category_name": "Track Suit Gents",
+    "further_tax": null,
+    "product_count": 0,
+    "category_type": "finished",
+    "tax_rate": null,
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "category_code": "0016",
+    "is_active": true,
+    "pct_code": null
+  },
+  {
+    "id": "5u6g8e72wL5CLbdmrHrl",
+    "is_active": true,
+    "product_count": 0,
+    "category_code": "0042",
+    "category_type": "finished",
+    "further_tax": null,
+    "category_name": "Dressshirt",
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "pct_code": null,
+    "tax_rate": null
+  },
+  {
+    "id": "6QTZY7VUUhLpKinnUhoZ",
+    "category_code": "0028",
+    "category_name": "Glasses",
+    "category_type": "finished",
+    "created_by": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "is_active": true,
+    "product_count": 0,
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
+  },
+  {
+    "id": "6c0I2d1gs65FE1Sss07G",
+    "category_code": "0038",
+    "category_name": "Shalwar Kameez Gents",
+    "category_type": "finished",
+    "created_by": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "is_active": true,
+    "product_count": 0,
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
+  },
+  {
+    "id": "6fgzQGhxzQsLxpGbV1EC",
+    "further_tax": null,
+    "is_active": true,
+    "product_count": 0,
+    "tax_rate": null,
+    "category_type": "finished",
+    "category_name": "Kids T Shirts",
+    "created_by": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "category_code": "0031",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "pct_code": null
+  }
+]

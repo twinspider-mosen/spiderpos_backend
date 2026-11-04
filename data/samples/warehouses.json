@@ -1,0 +1,81 @@
+[
+  {
+    "id": "7MYyUtxVhsfyz0lEpObY",
+    "name": "Break Edge Ahmed Center",
+    "incharge": "Usman",
+    "number": "0011",
+    "branch_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "created_at": 1788019108173,
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "address": "Ahmed Center...",
+    "till_ids": [
+      "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+      "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
+    ]
+  },
+  {
+    "id": "TUwCvDviNP29A4S6KSy0",
+    "address": "",
+    "created_at": 1790938714292,
+    "incharge": "Awais",
+    "name": "Trash",
+    "number": "0013",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_ids": []
+  },
+  {
+    "id": "Uf29YGfzKYo0WVSXvML6",
+    "address": "",
+    "created_at": 1789644005075,
+    "incharge": "r",
+    "name": "Second Warehouse",
+    "number": "0013",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_ids": [
+      "048aqC9Sk3VqpUfNmvExE67guBA3",
+      "onSO0uPfTMUfBz34lbZXAaBKGgk1"
+    ]
+  },
+  {
+    "id": "YGnX1HuL4UqVC1KCUsWH",
+    "address": "Glorious Mall G.T Road Gujrat",
+    "created_at": 1790686394313,
+    "incharge": "Fahad",
+    "name": "Shop Glorious  Mall",
+    "number": "0012",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_ids": [
+      "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+      "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
+    ]
+  },
+  {
+    "id": "uYNBRQuIpz6RdLlxMhIp",
+    "address": "",
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "number": "0012",
+    "created_at": 1788863874960,
+    "branch_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "incharge": "a",
+    "name": "Test Warehouse",
+    "till_ids": [
+      "onSO0uPfTMUfBz34lbZXAaBKGgk1"
+    ]
+  },
+  {
+    "id": "xwk7Gr1DfWkWxS54E8kX",
+    "created_at": 1788014099706,
+    "till_ids": [
+      "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
+    ],
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "number": "0010",
+    "name": "Main Warehouse",
+    "branch_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "incharge": "Saad",
+    "address": "Ahmed Center."
+  }
+]
