@@ -1,6 +1,5 @@
 [
   {
-    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2-2026-09",
     "created_at": 1790664016286,
     "employees": {
       "CyiJFihGMA8YHoL3S2Fg": {
@@ -366,6 +365,7 @@
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "total_advances": 0.0,
     "total_commissions": 28086.1,
-    "total_gross_salary": 255350.0
+    "total_gross_salary": 255350.0,
+    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2-2026-09"
   }
 ]

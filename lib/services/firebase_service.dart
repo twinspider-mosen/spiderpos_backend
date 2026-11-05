@@ -32,9 +32,12 @@ class FirebaseService {
     final snapshot = await query.get();
     return snapshot.docs.map((doc) {
       final data = _sanitize(doc.data());
+      final docId = (data is Map && data['id'] != null && data['id'].toString().isNotEmpty)
+          ? data['id'].toString()
+          : doc.id;
       return {
-        'id': doc.id,
         if (data is Map<String, dynamic>) ...data,
+        'id': docId,
       };
     }).toList();
   }
@@ -49,9 +52,12 @@ class FirebaseService {
     if (!snapshot.exists) return null;
 
     final data = _sanitize(snapshot.data());
+    final docId = (data is Map && data['id'] != null && data['id'].toString().isNotEmpty)
+        ? data['id'].toString()
+        : snapshot.id;
     return {
-      'id': snapshot.id,
       if (data is Map<String, dynamic>) ...data,
+      'id': docId,
     };
   }
 

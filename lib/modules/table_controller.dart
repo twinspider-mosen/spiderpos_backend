@@ -24,7 +24,10 @@ class TableController {
       final table = tableName.replaceAll('-', '_');
       try {
         final q = req.url.queryParameters;
-        final limit = int.tryParse(q['limit'] ?? '');
+        final limitParam = q['limit'];
+        final limit = (limitParam == 'all' || limitParam == '0')
+            ? 0
+            : int.tryParse(limitParam ?? '');
         final offset = int.tryParse(q['offset'] ?? '');
         final storeId = q['store_id'];
         final orderBy = q['order_by'];

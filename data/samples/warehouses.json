@@ -1,6 +1,5 @@
 [
   {
-    "id": "7MYyUtxVhsfyz0lEpObY",
     "name": "Break Edge Ahmed Center",
     "incharge": "Usman",
     "number": "0011",
@@ -11,10 +10,10 @@
     "till_ids": [
       "fOKnHPGC0OOlkd5tIEcyCwCshy52",
       "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
-    ]
+    ],
+    "id": "7MYyUtxVhsfyz0lEpObY"
   },
   {
-    "id": "TUwCvDviNP29A4S6KSy0",
     "address": "",
     "created_at": 1790938714292,
     "incharge": "Awais",
@@ -22,10 +21,10 @@
     "number": "0013",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "till_ids": []
+    "till_ids": [],
+    "id": "TUwCvDviNP29A4S6KSy0"
   },
   {
-    "id": "Uf29YGfzKYo0WVSXvML6",
     "address": "",
     "created_at": 1789644005075,
     "incharge": "r",
@@ -36,10 +35,10 @@
     "till_ids": [
       "048aqC9Sk3VqpUfNmvExE67guBA3",
       "onSO0uPfTMUfBz34lbZXAaBKGgk1"
-    ]
+    ],
+    "id": "Uf29YGfzKYo0WVSXvML6"
   },
   {
-    "id": "YGnX1HuL4UqVC1KCUsWH",
     "address": "Glorious Mall G.T Road Gujrat",
     "created_at": 1790686394313,
     "incharge": "Fahad",
@@ -50,10 +49,10 @@
     "till_ids": [
       "wZa3GxIXhAOaYUnay78CO2aP5XL2",
       "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
-    ]
+    ],
+    "id": "YGnX1HuL4UqVC1KCUsWH"
   },
   {
-    "id": "uYNBRQuIpz6RdLlxMhIp",
     "address": "",
     "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "number": "0012",
@@ -63,10 +62,10 @@
     "name": "Test Warehouse",
     "till_ids": [
       "onSO0uPfTMUfBz34lbZXAaBKGgk1"
-    ]
+    ],
+    "id": "uYNBRQuIpz6RdLlxMhIp"
   },
   {
-    "id": "xwk7Gr1DfWkWxS54E8kX",
     "created_at": 1788014099706,
     "till_ids": [
       "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
@@ -76,6 +75,7 @@
     "name": "Main Warehouse",
     "branch_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "incharge": "Saad",
-    "address": "Ahmed Center."
+    "address": "Ahmed Center.",
+    "id": "xwk7Gr1DfWkWxS54E8kX"
   }
 ]

@@ -62,8 +62,11 @@ class PostgresService {
     final dir = descending ? 'DESC' : 'ASC';
     sql += ' ORDER BY $safeOrder $dir';
 
-    final safeLimit = (limit != null && limit > 0) ? limit : 100;
-    sql += ' LIMIT $safeLimit';
+    if (limit != null && limit > 0) {
+      sql += ' LIMIT $limit';
+    } else if (limit == null) {
+      sql += ' LIMIT 100';
+    }
 
     if (offset != null && offset > 0) {
       sql += ' OFFSET $offset';

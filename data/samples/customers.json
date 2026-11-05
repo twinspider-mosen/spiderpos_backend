@@ -1,6 +1,5 @@
 [
   {
-    "id": "B3qcuW3dSZbSiKktr57j",
     "area_id": "",
     "balance": 88000.0,
     "created_at": 1792048239778,
@@ -19,10 +18,10 @@
     "loyalty_card": false,
     "opening_balance": 88000.0,
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "id": "B3qcuW3dSZbSiKktr57j"
   },
   {
-    "id": "BBy9YXXeVxLhIrXG46Z7",
     "area_id": "",
     "created_at": 1792048999985,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -44,10 +43,10 @@
       "261017": 509312.0,
       "261019": 659882.0,
       "261031": 690202.0
-    }
+    },
+    "id": "BBy9YXXeVxLhIrXG46Z7"
   },
   {
-    "id": "CEtsj5l3XYbYbsuBi3VU",
     "area_id": "",
     "created_at": 1793464242895,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -67,10 +66,10 @@
     "daily_closing": {
       "240101": 1.0,
       "261031": 78501.0
-    }
+    },
+    "id": "CEtsj5l3XYbYbsuBi3VU"
   },
   {
-    "id": "IE5qRytmGwYkh3yA7clN",
     "area_id": "",
     "created_at": 1791296971935,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -93,10 +92,10 @@
       "261017": 7200.0,
       "261019": 13200.0,
       "261031": 24200.0
-    }
+    },
+    "id": "IE5qRytmGwYkh3yA7clN"
   },
   {
-    "id": "JMvFX0RWoD5u2Pp0xLkt",
     "area_id": "",
     "created_at": 1792048191379,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -116,10 +115,10 @@
     "daily_closing": {
       "240101": 148500.0,
       "261017": 145700.0
-    }
+    },
+    "id": "JMvFX0RWoD5u2Pp0xLkt"
   },
   {
-    "id": "KOdig8N7p4ifMfueHVIP",
     "area_id": "",
     "balance": 500.0,
     "created_at": 1791297018872,
@@ -138,10 +137,10 @@
     "loyalty_card": false,
     "opening_balance": 500.0,
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "id": "KOdig8N7p4ifMfueHVIP"
   },
   {
-    "id": "VDflIKK4IdwbPJIHYIwN",
     "area_id": "",
     "created_at": 1792048797203,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -162,10 +161,10 @@
       "240101": 5150.0,
       "261019": 6150.0,
       "261031": 13650.0
-    }
+    },
+    "id": "VDflIKK4IdwbPJIHYIwN"
   },
   {
-    "id": "W4nB7RpIjrZFTxEPkEII",
     "area_id": "",
     "created_at": 1791301284077,
     "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
@@ -185,10 +184,10 @@
     "daily_closing": {
       "240101": 1000.0,
       "261031": 1350.0
-    }
+    },
+    "id": "W4nB7RpIjrZFTxEPkEII"
   },
   {
-    "id": "Y0TYF1j7LO7jExD8i1pA",
     "area_id": "",
     "balance": 42000.0,
     "created_at": 1792048262396,
@@ -207,10 +206,10 @@
     "loyalty_card": false,
     "opening_balance": 42000.0,
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "id": "Y0TYF1j7LO7jExD8i1pA"
   },
   {
-    "id": "YVceqUb6np14ubXoEgSI",
     "area_id": "",
     "balance": 300.0,
     "created_at": 1792048645075,
@@ -229,6 +228,75 @@
     "loyalty_card": false,
     "opening_balance": 300.0,
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "id": "YVceqUb6np14ubXoEgSI"
+  },
+  {
+    "area_id": "",
+    "balance": 150000.0,
+    "created_at": 1792048299299,
+    "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "customer_address": "",
+    "customer_cnic": "",
+    "customer_id": null,
+    "customer_name": "Shop Rent",
+    "customer_phone": "",
+    "customer_type": "expense",
+    "daily_closing": {
+      "240101": 150000.0
+    },
+    "description": "",
+    "disc_percentage": 0.0,
+    "loyalty_card": false,
+    "opening_balance": 150000.0,
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "id": "a1WC4blm9jI2pOZPyoCX"
+  },
+  {
+    "area_id": "",
+    "created_at": 1791302364116,
+    "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "customer_address": "",
+    "customer_cnic": "",
+    "customer_id": null,
+    "customer_name": "Chaye",
+    "customer_phone": "",
+    "customer_type": "expense",
+    "description": "",
+    "disc_percentage": 0.0,
+    "loyalty_card": false,
+    "opening_balance": 200.0,
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "balance": 360.0,
+    "daily_closing": {
+      "240101": 200.0,
+      "261031": 360.0
+    },
+    "id": "dgRBBpitYTtuc8fLzfjq"
+  },
+  {
+    "area_id": "",
+    "created_at": 1793464303678,
+    "created_by": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "customer_address": "",
+    "customer_cnic": "",
+    "customer_id": null,
+    "customer_name": "Employee Comission",
+    "customer_phone": "",
+    "customer_type": "expense",
+    "description": "",
+    "disc_percentage": 0.0,
+    "loyalty_card": false,
+    "opening_balance": 1.0,
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "balance": 8201.0,
+    "daily_closing": {
+      "240101": 1.0,
+      "261031": 8201.0
+    },
+    "id": "v8nNgyuru9eGX6eim4fp"
   }
 ]

@@ -18,7 +18,9 @@ Future<void> main() async {
 
   for (final col in collections) {
     try {
-      final records = await service.getCollection(col, limit: 10);
+      // final records = await service.getCollection(col, limit: 10);
+      final records = await service.getCollection(col);
+
       final file = File('${outputDir.path}/${col.toLowerCase()}.json');
       await file.writeAsString(encoder.convert(records));
       print('Exported ${records.length} records -> ${file.path}');

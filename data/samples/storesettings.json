@@ -1,6 +1,5 @@
 [
   {
-    "id": "18KtHMtIi2ShzlzNCigNgEnYp1q1",
     "store_id": "18KtHMtIi2ShzlzNCigNgEnYp1q1",
     "setting_id": "18KtHMtIi2ShzlzNCigNgEnYp1q1",
     "store_name": "Demo Store",
@@ -105,10 +104,10 @@
       "expired_on": 1793514472000,
       "renewal_date": 1780987417148,
       "status": "active"
-    }
+    },
+    "id": "18KtHMtIi2ShzlzNCigNgEnYp1q1"
   },
   {
-    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "store_name": "Break Edge",
@@ -235,10 +234,10 @@
       "status": "active",
       "renewal_date": 1793514471000,
       "expired_on": 1795978800000
-    }
+    },
+    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
   },
   {
-    "id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "store_name": "Developer Store",
@@ -355,6 +354,7 @@
       ],
       "detailed_discount_invoice_preview": true,
       "temp_stock_disabled": true
-    }
+    },
+    "id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
   }
 ]

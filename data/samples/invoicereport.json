@@ -1,6 +1,5 @@
 [
   {
-    "id": "1CzzxNhgcYcl0kcUs3Fd",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "summary": {
       "service_charges": 0.0,
@@ -32,10 +31,10 @@
     "created_at": 1792601375922,
     "type": "",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "report_date": "2026-10-21T00:00:00.000"
+    "report_date": "2026-10-21T00:00:00.000",
+    "id": "1CzzxNhgcYcl0kcUs3Fd"
   },
   {
-    "id": "1WXjMv0RhUPlmikAnXet",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "till_id": "Purchaser",
     "total_credit": 0,
@@ -67,10 +66,10 @@
     },
     "total": 52370731,
     "total_cash": -3055850,
-    "created_at": 1790698551671
+    "created_at": 1790698551671,
+    "id": "1WXjMv0RhUPlmikAnXet"
   },
   {
-    "id": "2LezaqxLugRTMtgzckrB",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
     "total_cash": 117070,
@@ -102,10 +101,10 @@
         "expense": 157570
       }
     },
-    "total": 94955871
+    "total": 94955871,
+    "id": "2LezaqxLugRTMtgzckrB"
   },
   {
-    "id": "3AJ47Ncpa8hSMzQJjfvU",
     "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "summary": {
       "service_charges": 0.0,
@@ -137,10 +136,10 @@
     "created_at": 1789738555605,
     "type": "",
     "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
-    "report_date": "2026-09-18T00:00:00.000"
+    "report_date": "2026-09-18T00:00:00.000",
+    "id": "3AJ47Ncpa8hSMzQJjfvU"
   },
   {
-    "id": "3Da42FIKSlG266HG1Rrh",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "summary": {
       "service_charges": 0.0,
@@ -172,10 +171,10 @@
     "type": "",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "report_date": "2026-10-31T00:00:00.000",
-    "created_at": 1793469456142
+    "created_at": 1793469456142,
+    "id": "3Da42FIKSlG266HG1Rrh"
   },
   {
-    "id": "3GM8uagCsjnQ72r0ly5G",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "summary": {
       "service_charges": 0.0,
@@ -207,10 +206,10 @@
     "created_at": 1791560481136,
     "type": "",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "report_date": "2026-10-09T00:00:00.000"
+    "report_date": "2026-10-09T00:00:00.000",
+    "id": "3GM8uagCsjnQ72r0ly5G"
   },
   {
-    "id": "3UFOyBG5eNjWnHTHxrRx",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "summary": {
       "service_charges": 0.0,
@@ -242,10 +241,10 @@
     "created_at": 1792512102141,
     "type": "",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
-    "report_date": "2026-10-20T00:00:00.000"
+    "report_date": "2026-10-20T00:00:00.000",
+    "id": "3UFOyBG5eNjWnHTHxrRx"
   },
   {
-    "id": "4m1JVJ6qWpzCBfOF4H6c",
     "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
     "summary": {
       "service_charges": 0.0,
@@ -277,10 +276,10 @@
     "created_at": 1791438943763,
     "type": "",
     "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
-    "report_date": "2026-10-07T00:00:00.000"
+    "report_date": "2026-10-07T00:00:00.000",
+    "id": "4m1JVJ6qWpzCBfOF4H6c"
   },
   {
-    "id": "4uWzXUMiOdwTj3iixzoS",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
     "total_credit": 0,
@@ -312,10 +311,10 @@
     },
     "total": 49660810,
     "total_cash": -1174625,
-    "created_at": 1789833102908
+    "created_at": 1789833102908,
+    "id": "4uWzXUMiOdwTj3iixzoS"
   },
   {
-    "id": "5GFdHnE7WHGAjlWOlUZk",
     "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "summary": {
       "service_charges": 0.0,
@@ -347,6 +346,4417 @@
     "type": "",
     "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "report_date": "2026-10-08T00:00:00.000",
-    "created_at": 1791473038781
+    "created_at": 1791473038781,
+    "id": "5GFdHnE7WHGAjlWOlUZk"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 38950,
+        "cash_purchase": 1524600,
+        "expense": 0,
+        "stock": 94354146,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 92868496,
+    "total_cash": -1485650,
+    "total_credit": 0,
+    "created_at": 1791648070266,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-10T00:00:00.000",
+    "id": "5dsW6EcvnkHLihTE9fG4"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-07T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 950.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 275500,
+        "stock": 75547881,
+        "cash_sale": 117700
+      }
+    },
+    "total": 75390081,
+    "total_cash": -157800,
+    "created_at": 1791384748558,
+    "id": "5inKWKpCenVLXqBXQca4"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 257400,
+        "expense": 0,
+        "stock": 2008900,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total": 1751500,
+    "total_cash": -257400,
+    "total_credit": 0,
+    "created_at": 1789986798814,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-21T00:00:00.000",
+    "id": "5oyIUnMMoc6Ji0QB2Dfs"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 53555181,
+        "cash_sale": 30950,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 53586131,
+    "total_cash": 30950,
+    "total_credit": 0,
+    "created_at": 1790351037544,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-25T00:00:00.000",
+    "id": "6JcRKeT1ov6o34uD0uRH"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 160.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 13600,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96187016,
+        "cash_sale": 425650,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 96599066,
+    "total_cash": 412050,
+    "total_credit": 0,
+    "created_at": 1792079683376,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-15T00:00:00.000",
+    "id": "6aABxchMoBAUzwl4w3JJ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-22T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 118000,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 390410,
+        "stock": 53714670,
+        "cash_sale": 391450
+      }
+    },
+    "total": 53833710,
+    "total_cash": 119040,
+    "created_at": 1790092015075,
+    "id": "6pdVJ5fdo7RrURKPWtco"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 9900,
+        "cash_purchase": 18050,
+        "expense": 0,
+        "stock": 97065237,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 97057087,
+    "total_cash": -8150,
+    "total_credit": 0,
+    "created_at": 1793642547106,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-02T00:00:00.000",
+    "id": "7p5lPJ45JhltY7hqTbhq"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 44854655,
+        "cash_sale": 31900,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 44886555,
+    "total_cash": 31900,
+    "total_credit": 0,
+    "created_at": 1793121548727,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-27T00:00:00.000",
+    "id": "8mdyFzmFD63LaN73o7H8"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "till",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-25T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_sale": 1426350,
+        "cash_amendment": 0,
+        "cash_purchase": 3096565,
+        "stock": 449700
+      }
+    },
+    "total": -1220515,
+    "total_cash": -1670215,
+    "created_at": 1790332542719,
+    "id": "90rXUoQ6ZkgBWsPZbUDP"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 400.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 5400,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 75547881,
+        "cash_sale": 99350,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "total": 75641831,
+    "total_cash": 93950,
+    "total_credit": 0,
+    "created_at": 1791384750178,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-07T00:00:00.000",
+    "id": "A6OgrRRgy4lkU7o5ib8A"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97065237,
+        "cash_sale": 233450,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97298687,
+    "total_cash": 233450,
+    "total_credit": 0,
+    "created_at": 1793642547108,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-02T00:00:00.000",
+    "id": "APM3sY3aNNmZ7Vn9CcSq"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1243.75,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 98889061,
+        "cash_sale": 310700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 99199761,
+    "total_cash": 310700,
+    "total_credit": 0,
+    "created_at": 1792951298822,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-25T00:00:00.000",
+    "id": "ASP6pOj2JhZn6VxizC6e"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-12T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 7000,
+        "expense": 0,
+        "cash_sale": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 745900,
+        "stock": 95738831
+      }
+    },
+    "total": 94999931,
+    "total_cash": -738900,
+    "created_at": 1791819290136,
+    "id": "ASWSERhvwYDyx14EHyM5"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-24T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 2300.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 2800,
+        "cash_purchase": 268650,
+        "stock": 53591570,
+        "cash_sale": 296550
+      }
+    },
+    "total": 53616670,
+    "total_cash": 25100,
+    "created_at": 1790266712272,
+    "id": "AU4v9EXk3BvJpLrCRe1v"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97460796,
+        "cash_sale": 17000,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97477796,
+    "total_cash": 17000,
+    "total_credit": 0,
+    "created_at": 1792860841044,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-24T00:00:00.000",
+    "id": "BR4BSdCWk1UE4Pix1Nk6"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total_cash": 149850,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-23T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_sale": 149850,
+        "cash_amendment": 0,
+        "stock": 2260900
+      }
+    },
+    "total": 2410750,
+    "created_at": 1790170828058,
+    "id": "Bijit4ySizF9V7g5OQ83"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total_cash": 106500,
+    "total_credit": 0,
+    "created_at": 1792079685692,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-15T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 46.5,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "stock": 96187016,
+        "cash_sale": 106500,
+        "cash_amendment": 0,
+        "expense": 9000
+      }
+    },
+    "total": 96284516,
+    "id": "BzpxhMRMWPRYmKbiqKRr"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1250.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 68250,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 94354146,
+        "cash_sale": 238050,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 94523946,
+    "total_cash": 169800,
+    "total_credit": 0,
+    "created_at": 1791648069805,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-10T00:00:00.000",
+    "id": "CchfMHXj3ysS2ybeB40g"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 2490.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96901812,
+        "cash_sale": 215000,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97116812,
+    "total_cash": 215000,
+    "total_credit": 0,
+    "created_at": 1793554314386,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-01T00:00:00.000",
+    "id": "Das7PDfmlTUDz4CKdy8F"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-13T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 13000,
+        "expense": 0,
+        "stock": 0,
+        "cash_sale": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 2780305
+      }
+    },
+    "total": -2767305,
+    "total_cash": -2767305,
+    "created_at": 1789365330449,
+    "id": "EPOU6ZuzHMfiiYp7Asle"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 500.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 98956111,
+        "cash_sale": 262860,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 99218971,
+    "total_cash": 262860,
+    "total_credit": 0,
+    "created_at": 1793037680550,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-26T00:00:00.000",
+    "id": "ER2yIt0VsnZpSYEku9ov"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 40.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97065237,
+        "cash_sale": 158700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97223937,
+    "total_cash": 158700,
+    "total_credit": 0,
+    "created_at": 1793642547105,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-02T00:00:00.000",
+    "id": "EdBv6PIwFP3jKQZylaQn"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 270.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 76439556,
+        "cash_sale": 149800,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 76589356,
+    "total_cash": 149800,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-08T00:00:00.000",
+    "created_at": 1791473038276,
+    "id": "Eiq9tvMAOEg8iKsRDb4V"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-01T00:00:00.000",
+    "total_cash": -2847560,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 529400,
+        "cash_sale": 85300,
+        "cash_purchase": 3462260,
+        "stock": 60793366
+      }
+    },
+    "total": 57945806,
+    "created_at": 1790795977550,
+    "id": "FQTMLlmqrymlu3WANi12"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-03T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 24900,
+        "cash_sale": 455900,
+        "cash_purchase": 5986550,
+        "stock": 66642486
+      }
+    },
+    "total": 61136736,
+    "total_cash": -5505750,
+    "created_at": 1791051134594,
+    "id": "FwLgTuTqmvm74KxzKVmx"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 420.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95061106,
+        "cash_sale": 85200,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 95146306,
+    "total_cash": 85200,
+    "total_credit": 0,
+    "created_at": 1791905518129,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-13T00:00:00.000",
+    "id": "HxWmImJllvsTc9GBYAMb"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total_cash": -157050,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-22T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 301050,
+        "expense": 0,
+        "cash_sale": 144000,
+        "cash_amendment": 0,
+        "stock": 2298400
+      }
+    },
+    "total": 2141350,
+    "created_at": 1790084804962,
+    "id": "IG3Bnlug8fNvuIcNy3FU"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-12T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "stock": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 133500,
+        "cash_purchase": 5518750,
+        "cash_sale": 82935
+      }
+    },
+    "total": -5302315,
+    "total_cash": -5302315,
+    "created_at": 1789218256117,
+    "id": "IkuDn1QZdSa4yHx2ZCMu"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 44854655,
+        "cash_sale": 94300,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 44948955,
+    "total_cash": 94300,
+    "total_credit": 0,
+    "created_at": 1793121548727,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-27T00:00:00.000",
+    "id": "ImMJPdxob165dkU6tKQJ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1000.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 7534,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95769371,
+        "cash_sale": 163384,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95925221,
+    "total_cash": 155850,
+    "total_credit": 0,
+    "created_at": 1792512102484,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-20T00:00:00.000",
+    "id": "InE2UOEmbH5Ibyus6E4Y"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 30.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 94354146,
+        "cash_sale": 81550,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 94435696,
+    "total_cash": 81550,
+    "total_credit": 0,
+    "created_at": 1791648071824,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-10T00:00:00.000",
+    "id": "K123ySOsvpiYxAMVS5Et"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-17T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 4267650,
+        "stock": 1542400,
+        "cash_sale": 847900
+      }
+    },
+    "total": -1877350,
+    "total_cash": -3419750,
+    "created_at": 1789650179337,
+    "id": "KIFD48agjZq3F174w8t3"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 74750,
+        "expense": 0,
+        "stock": 3168875,
+        "cash_sale": 82350,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 3176475,
+    "total_cash": 7600,
+    "total_credit": 0,
+    "created_at": 1788961709027,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-06T00:00:00.000",
+    "id": "LLlV6OqZn3sx6MXmQj72"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 489400,
+        "expense": 0,
+        "stock": 95769371,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95279971,
+    "total_cash": -489400,
+    "total_credit": 0,
+    "created_at": 1792512105643,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-20T00:00:00.000",
+    "id": "LuRfNRdsqcegkYXENFLb"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 32000,
+        "cash_purchase": 548000,
+        "expense": 0,
+        "stock": 97460796,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 96944796,
+    "total_cash": -516000,
+    "total_credit": 0,
+    "created_at": 1792860841044,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-24T00:00:00.000",
+    "id": "Lv8yEon9Yjo3CnFxsF4G"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-17T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 96262971,
+        "cash_sale": 141050
+      }
+    },
+    "total": 96404021,
+    "total_cash": 141050,
+    "created_at": 1792252880495,
+    "id": "LyF6XrZDvHtQpbWuVXZd"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 25.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 15296075,
+        "cash_sale": 125300,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 15421375,
+    "total_cash": 125300,
+    "total_credit": 0,
+    "created_at": 1788961541133,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-09T00:00:00.000",
+    "id": "M7O5IppRplqY7rvwPGHI"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "till",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-23T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 2260900,
+        "cash_sale": 898200
+      }
+    },
+    "total": 3159100,
+    "total_cash": 898200,
+    "created_at": 1790170827743,
+    "id": "MMWSsYxDPKx4tbm0QUzf"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "till",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-22T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 289050,
+        "stock": 2298400,
+        "cash_sale": 193253
+      }
+    },
+    "total": 2202603,
+    "total_cash": -95797,
+    "created_at": 1790084803992,
+    "id": "MQHyZFRCoND37eyPPqx2"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-12T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 95738831,
+        "cash_sale": 180700
+      }
+    },
+    "total": 95919531,
+    "total_cash": 180700,
+    "created_at": 1791819289359,
+    "id": "MV3fvbP3V0P0Z7ypOHhd"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 58800,
+        "expense": 0,
+        "stock": 95061106,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95002306,
+    "total_cash": -58800,
+    "total_credit": 0,
+    "created_at": 1791905521570,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-13T00:00:00.000",
+    "id": "MbpSGdcXXKfl0qXihaQO"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 162.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 4500,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 76439556,
+        "cash_sale": 124750,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 76559806,
+    "total_cash": 120250,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-08T00:00:00.000",
+    "created_at": 1791473043606,
+    "id": "NnJFLjtrCKxqJcOGF4uE"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95419936,
+        "cash_sale": 34700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 95454636,
+    "total_cash": 34700,
+    "total_credit": 0,
+    "created_at": 1793210533737,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-28T00:00:00.000",
+    "id": "OZBH5vrEmfPkJjeBpLHc"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 82600,
+        "cash_purchase": 857600,
+        "expense": 0,
+        "stock": 96187016,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95412016,
+    "total_cash": -775000,
+    "total_credit": 0,
+    "created_at": 1792079686792,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-15T00:00:00.000",
+    "id": "PTpaLEThLXjHtmWM2nn0"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95837006,
+        "cash_sale": 10700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 95847706,
+    "total_cash": 10700,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-22T00:00:00.000",
+    "created_at": 1792689184048,
+    "id": "Qkd9nweIGFQNuYeWQ4Ol"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 17500,
+        "cash_purchase": 165550,
+        "expense": 0,
+        "stock": 97162866,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 97014816,
+    "total_cash": -148050,
+    "total_credit": 0,
+    "created_at": 1793295482841,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-29T00:00:00.000",
+    "id": "RJ9FGRFNCWO4P0diYGUc"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 800.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96011086,
+        "cash_sale": 180050,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 96191136,
+    "total_cash": 180050,
+    "total_credit": 0,
+    "created_at": 1791993122333,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-14T00:00:00.000",
+    "id": "S1oC8FMR29wHMbMjAeiK"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 600.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 18000,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96011086,
+        "cash_sale": 330090,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 96323176,
+    "total_cash": 312090,
+    "total_credit": 0,
+    "created_at": 1791993123927,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-14T00:00:00.000",
+    "id": "S4tbGCrh5vNoUnhq8ufd"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 46.5,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97162866,
+        "cash_sale": 278201,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97441067,
+    "total_cash": 278201,
+    "total_credit": 0,
+    "created_at": 1793295482841,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-29T00:00:00.000",
+    "id": "SQpxDIHoEx3S7gMWw35R"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Shop 2",
+    "total_cash": 7300,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_sale": 7300,
+        "cash_amendment": 0,
+        "stock": 75041601
+      }
+    },
+    "total": 75048901,
+    "created_at": 1791285033311,
+    "id": "SgOTmSOq4mpaEQ5EZdiO"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 4000,
+        "expense": 0,
+        "stock": 98889061,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 98885061,
+    "total_cash": -4000,
+    "total_credit": 0,
+    "created_at": 1792951298824,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-25T00:00:00.000",
+    "id": "T67zz02QfHiz6cQ0wq4d"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 59.3,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97876738,
+        "cash_sale": 120640,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97997378,
+    "total_cash": 120640,
+    "total_credit": 0,
+    "created_at": 1793725024642,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-03T00:00:00.000",
+    "id": "TBz65bJ79rWYfXdSHuSU"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-23T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 95741356,
+        "cash_sale": 103950
+      }
+    },
+    "total": 95845306,
+    "total_cash": 103950,
+    "created_at": 1792778503271,
+    "id": "TEu55JOetFqHJqMRWiQs"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "total_cash": 50400,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale": 50400,
+        "stock": 75468131
+      }
+    },
+    "total": 75518531,
+    "created_at": 1791361988646,
+    "id": "UItHNwbUQCxpa2WFcylt"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 50699710,
+        "cash_sale": 135150,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 50834860,
+    "total_cash": 135150,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-20T00:00:00.000",
+    "created_at": 1790056715420,
+    "id": "UNXoFUtdo4jDwRMXqxHf"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1487.5,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97162866,
+        "cash_sale": 303900,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97466766,
+    "total_cash": 303900,
+    "total_credit": 0,
+    "created_at": 1793295482841,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-29T00:00:00.000",
+    "id": "VRntnc81wBY44mB9IdIc"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 25.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97876738,
+        "cash_sale": 354550,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 98231288,
+    "total_cash": 354550,
+    "total_credit": 0,
+    "created_at": 1793725024642,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-03T00:00:00.000",
+    "id": "VkRXhxMT6pzROWDZc26e"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 270150,
+        "cash_purchase": 233300,
+        "expense": 0,
+        "stock": 98956111,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 98992961,
+    "total_cash": 36850,
+    "total_credit": 0,
+    "created_at": 1793037680551,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-26T00:00:00.000",
+    "id": "VoBhzfAD6Nmdf7yRehVz"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-10T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 60000,
+        "cash_purchase": 4663500,
+        "stock": 16047650,
+        "cash_sale": 77200
+      }
+    },
+    "total": 11521350,
+    "total_cash": -4526300,
+    "created_at": 1789054936379,
+    "id": "WPC6jKVPAnuGVHLkQAnN"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 6160525,
+        "cash_sale": 33500,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 6194025,
+    "total_cash": 33500,
+    "total_credit": 0,
+    "created_at": 1788961624228,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-07T00:00:00.000",
+    "id": "WviKBciqFhjo0yXrM53H"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-30T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 106.25,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale": 238313,
+        "cash_purchase_return": 24000,
+        "cash_purchase": 1000850,
+        "stock": 57595931
+      }
+    },
+    "total": 56857394,
+    "total_cash": -738537,
+    "created_at": 1790790215373,
+    "id": "XRCKdzl7EV3lQLfo94wZ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 40.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95419936,
+        "cash_sale": 202200,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95622136,
+    "total_cash": 202200,
+    "total_credit": 0,
+    "created_at": 1793210533737,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-28T00:00:00.000",
+    "id": "YSc6xkrwWf1bMuYkcYYm"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 71000,
+        "cash_purchase": 469800,
+        "expense": 0,
+        "stock": 95871746,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95472946,
+    "total_cash": -398800,
+    "total_credit": 0,
+    "created_at": 1792338855431,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-18T00:00:00.000",
+    "id": "ZaRysBtSCYBS2F3d97fQ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 20.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 98889061,
+        "cash_sale": 99695,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 98988756,
+    "total_cash": 99695,
+    "total_credit": 0,
+    "created_at": 1792951298823,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-25T00:00:00.000",
+    "id": "ZoB1XXZqakKRTVT8OFOo"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 290.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95597306,
+        "cash_sale": 186800,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 95784106,
+    "total_cash": 186800,
+    "total_credit": 0,
+    "created_at": 1792601375922,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-21T00:00:00.000",
+    "id": "Zy3zBbdr17tHsGOrJItY"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-14T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 20200,
+        "cash_purchase": 3765250,
+        "stock": 37215220,
+        "cash_sale": 22000
+      }
+    },
+    "total": 33492170,
+    "total_cash": -3723050,
+    "created_at": 1789398151563,
+    "id": "aGxtOPPgGXpP56CASlTh"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 125.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96778391,
+        "cash_sale": 107300,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 96885691,
+    "total_cash": 107300,
+    "total_credit": 0,
+    "created_at": 1792166251002,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-16T00:00:00.000",
+    "id": "aKx8er6YgGMgf24jGmWZ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 586100,
+        "expense": 0,
+        "stock": 94996371,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 94410271,
+    "total_cash": -586100,
+    "total_credit": 0,
+    "created_at": 1792425064380,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-19T00:00:00.000",
+    "id": "af9HYyVgjPRbVCeDFU8S"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "till",
+    "total": 452053,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-28T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_sale": 3,
+        "cash_amendment": 0,
+        "cash_sale_return": 12000,
+        "stock": 464050
+      }
+    },
+    "total_cash": -11997,
+    "created_at": 1790591261944,
+    "id": "aqCQQ5B8g1xPCBLSAjmi"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "total_cash": -1600300,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 1603300,
+        "cash_sale": 3000,
+        "stock": 75468131
+      }
+    },
+    "total": 73867831,
+    "created_at": 1791361979356,
+    "id": "auyXq66b5gJlsZvI0Qon"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97112387,
+        "cash_sale": 182050,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97294437,
+    "total_cash": 182050,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-31T00:00:00.000",
+    "created_at": 1793469456142,
+    "id": "boQVN5OhshU5sZ2IY2VH"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 109350,
+        "cash_purchase": 277000,
+        "expense": 0,
+        "stock": 96901812,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 96734162,
+    "total_cash": -167650,
+    "total_credit": 0,
+    "created_at": 1793554314386,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-01T00:00:00.000",
+    "id": "cEPv6izSLId9Qz78Gmto"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97716512,
+        "cash_sale": 257300,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97973812,
+    "total_cash": 257300,
+    "total_credit": 0,
+    "created_at": 1793381858435,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-30T00:00:00.000",
+    "id": "d4SlbliPlpCdhPgZ8itA"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 11750,
+        "cash_purchase": 7750,
+        "expense": 0,
+        "stock": 95837006,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95841006,
+    "total_cash": 4000,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-22T00:00:00.000",
+    "created_at": 1792689184048,
+    "id": "d6qamgjCTiyui6DuLbnB"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Shop 2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-05T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 561.5,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 74652701,
+        "cash_sale": 162850
+      }
+    },
+    "total": 74815551,
+    "total_cash": 162850,
+    "created_at": 1791214892010,
+    "id": "eDE1IVtFhCIkgS4Vl9us"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 25.3,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97716512,
+        "cash_sale": 166750,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97883262,
+    "total_cash": 166750,
+    "total_credit": 0,
+    "created_at": 1793381858435,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-30T00:00:00.000",
+    "id": "eJwm3eK9bYvppovw86Bw"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 391000,
+        "expense": 0,
+        "stock": 855050,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "till",
+    "total": 464050,
+    "total_cash": -391000,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-10-05T00:00:00.000",
+    "created_at": 1791207880266,
+    "id": "ecoGfxaRk4OGFaDAMnKJ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-23T00:00:00.000",
+    "total": 53517245,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 116500,
+        "cash_sale": 153000,
+        "cash_purchase_return": 16500,
+        "stock": 53464245
+      }
+    },
+    "total_cash": 53000,
+    "created_at": 1790177915721,
+    "id": "egzE9kSqVw4kiqfSMxcz"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96778391,
+        "cash_sale": 140150,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 96918541,
+    "total_cash": 140150,
+    "total_credit": 0,
+    "created_at": 1792166248093,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-16T00:00:00.000",
+    "id": "esegJ1wAgK8VDUt32sgl"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1550.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 97460796,
+        "cash_sale": 252050,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 97712846,
+    "total_cash": 252050,
+    "total_credit": 0,
+    "created_at": 1792860841043,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-24T00:00:00.000",
+    "id": "fDHhsXyyErL06D73jSSw"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 1752900,
+        "cash_sale": 380700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "till",
+    "total": 2133600,
+    "total_cash": 380700,
+    "total_credit": 0,
+    "created_at": 1790257523408,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-09-24T00:00:00.000",
+    "id": "foj7lWjZ8ITvfHfUVY3Z"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-26T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 300.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 30500,
+        "cash_purchase": 2335250,
+        "stock": 56096481,
+        "cash_sale": 167500
+      }
+    },
+    "total": 53959231,
+    "total_cash": -2137250,
+    "created_at": 1790437929666,
+    "id": "g2yK0G9EdiTlVAt6MH1k"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 1000.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 19500,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95871746,
+        "cash_sale": 123650,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95975896,
+    "total_cash": 104150,
+    "total_credit": 0,
+    "created_at": 1792338856092,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-18T00:00:00.000",
+    "id": "gSa7n3jxfaEsaibhTd8A"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 104000,
+        "expense": 0,
+        "stock": 74652701,
+        "cash_sale": 125540,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "Purchaser",
+    "total": 74674241,
+    "total_cash": 21540,
+    "total_credit": 0,
+    "created_at": 1791214892425,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-05T00:00:00.000",
+    "id": "gj1eaD9kUQhiztHfDloi"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-21T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 59000,
+        "cash_purchase": 3007350,
+        "stock": 53655785,
+        "cash_sale": 200400
+      }
+    },
+    "total": 50907835,
+    "total_cash": -2747950,
+    "created_at": 1790005122062,
+    "id": "gug5XwJlwdZmH4EguG6l"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 3825840,
+        "cash_sale": 537400,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "onSO0uPfTMUfBz34lbZXAaBKGgk1",
+    "total": 4363240,
+    "total_cash": 537400,
+    "total_credit": 0,
+    "created_at": 1792145892908,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-10-16T00:00:00.000",
+    "id": "hBNHS90GmZZJw8SlPRCD"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 61850,
+        "cash_purchase": 567550,
+        "expense": 0,
+        "stock": 91855341,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 91349641,
+    "total_cash": -505700,
+    "total_credit": 0,
+    "created_at": 1791560481485,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-09T00:00:00.000",
+    "id": "hMNIqQnDe6E5FGRnVu5X"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-28T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 13000,
+        "cash_purchase": 13000,
+        "cash_sale_return": 44500,
+        "stock": 55811981,
+        "cash_sale": 244300
+      }
+    },
+    "total": 56011781,
+    "total_cash": 199800,
+    "created_at": 1790610316959,
+    "id": "hhKG19y3Q07IRMAbXKE6"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-17T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 96262971,
+        "cash_sale": 106050
+      }
+    },
+    "total": 96369021,
+    "total_cash": 106050,
+    "created_at": 1792252879594,
+    "id": "hoOWYcSEqmzIk0BIgkjn"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-02T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 400.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 3600,
+        "cash_sale": 141500,
+        "cash_purchase_return": 124400,
+        "cash_purchase": 2475000,
+        "stock": 62967561
+      }
+    },
+    "total": 60754861,
+    "total_cash": -2212700,
+    "created_at": 1790966294941,
+    "id": "iEp4RzL19SRmPcxLmfxq"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-16T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 206500,
+        "cash_purchase": 2594200,
+        "stock": 46846495,
+        "cash_sale": 3000
+      }
+    },
+    "total": 44461795,
+    "total_cash": -2384700,
+    "created_at": 1789574526862,
+    "id": "j2tYyoayvlx4XWT8EOvZ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Shop 2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-04T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 275.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 7350,
+        "stock": 73805216,
+        "cash_sale": 204450
+      }
+    },
+    "total": 74002316,
+    "total_cash": 197100,
+    "created_at": 1791130269987,
+    "id": "jJQ5VXZDYBbIVIzQWIOM"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-23T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 247.5,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "stock": 95741356,
+        "cash_sale": 67700
+      }
+    },
+    "total": 95809056,
+    "total_cash": 67700,
+    "created_at": 1792778503271,
+    "id": "jpSUP5FNddrn5koHfF60"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 470.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95871746,
+        "cash_sale": 154303,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 96026049,
+    "total_cash": 154303,
+    "total_credit": 0,
+    "created_at": 1792338855794,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-18T00:00:00.000",
+    "id": "kABIiwICty9aHIcf0hod"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 21050,
+        "cash_purchase": 178400,
+        "expense": 0,
+        "stock": 94931551,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 94774201,
+    "total_cash": -157350,
+    "total_credit": 0,
+    "created_at": 1791733907051,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-11T00:00:00.000",
+    "id": "klelfgBCq0BkIQB6qEQU"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 500.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 4375,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95061106,
+        "cash_sale": 207425,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95264156,
+    "total_cash": 203050,
+    "total_credit": 0,
+    "created_at": 1791905517499,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-13T00:00:00.000",
+    "id": "knK7UBWelOD6JDOrKhbT"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total_cash": 76400,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_sale": 76400,
+        "cash_amendment": 0,
+        "stock": 75468131
+      }
+    },
+    "total": 75544531,
+    "created_at": 1791361980601,
+    "id": "ktV1PXbs0cruIMEqGWIc"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 91855341,
+        "cash_sale": 63595,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 91918936,
+    "total_cash": 63595,
+    "total_credit": 0,
+    "created_at": 1791560483019,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-09T00:00:00.000",
+    "id": "ktzC602BWAZ93lJke5if"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 94931551,
+        "cash_sale": 35700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 94967251,
+    "total_cash": 35700,
+    "total_credit": 0,
+    "created_at": 1791733906667,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-11T00:00:00.000",
+    "id": "m20yFXA5uVGfNy96ViCU"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 250300,
+        "expense": 0,
+        "stock": 95419936,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95169636,
+    "total_cash": -250300,
+    "total_credit": 0,
+    "created_at": 1793210533737,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-28T00:00:00.000",
+    "id": "meR6SPiWy6mdPogzBKQE"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 300.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 98956111,
+        "cash_sale": 103200,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 99059311,
+    "total_cash": 103200,
+    "total_credit": 0,
+    "created_at": 1793037680551,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-26T00:00:00.000",
+    "id": "nQXmjfgOY93BTgkRFwjk"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 40140,
+        "expense": 0,
+        "stock": 6398840,
+        "cash_sale": 43100,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total": 6401800,
+    "total_cash": 2960,
+    "total_credit": 0,
+    "created_at": 1791454565741,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-10-08T00:00:00.000",
+    "id": "ngIgqYzBPpF9e2uIQMty"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-15T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 10137500,
+        "cash_purchase_return": 1116000,
+        "stock": 44181345,
+        "cash_sale": 148900
+      }
+    },
+    "total": 35308745,
+    "total_cash": -8872600,
+    "created_at": 1789487135918,
+    "id": "nqLUdgGuLGGLyDYMEZ0U"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 200.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 96901812,
+        "cash_sale": 269600,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total": 97171412,
+    "total_cash": 269600,
+    "total_credit": 0,
+    "created_at": 1793554314386,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-11-01T00:00:00.000",
+    "id": "oc2phRzPq1rpOr8vndNg"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-17T00:00:00.000",
+    "total": 44088995,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale": 84550,
+        "cash_purchase": 2778300,
+        "stock": 46782745
+      }
+    },
+    "total_cash": -2693750,
+    "created_at": 1789711318839,
+    "id": "owrFYgjAbodPfNu5EEMJ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_cash": -359000,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-17T00:00:00.000",
+    "created_at": 1792252878629,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 331850,
+        "cash_purchase": 690850,
+        "cash_sale": 0,
+        "cash_amendment": 0,
+        "stock": 96262971,
+        "expense": 488752
+      }
+    },
+    "total": 95415219,
+    "id": "pJvuJFNyPJzdBYmgA8yF"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 3825840,
+        "cash_sale": 1046800,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "048aqC9Sk3VqpUfNmvExE67guBA3",
+    "total": 4872640,
+    "total_cash": 1046800,
+    "total_credit": 0,
+    "created_at": 1792145890230,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-10-16T00:00:00.000",
+    "id": "pT97sakgbxgGRLZM1XPa"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 199350,
+        "cash_purchase": 536500,
+        "expense": 0,
+        "stock": 44854655,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 44517505,
+    "total_cash": -337150,
+    "total_credit": 0,
+    "created_at": 1793121548727,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-27T00:00:00.000",
+    "id": "peOKhjZbHSrM4ZvvehUQ"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 487.5,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 1200,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 95837006,
+        "cash_sale": 284700,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 96120506,
+    "total_cash": 283500,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-22T00:00:00.000",
+    "created_at": 1792689184048,
+    "id": "rjx20fwWjzV2KfORd9Y8"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-12T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 620.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 13000,
+        "stock": 95738831,
+        "cash_sale": 140500
+      }
+    },
+    "total": 95866331,
+    "total_cash": 127500,
+    "created_at": 1791819292487,
+    "id": "s4pgCfRaz98ugVYvZOgj"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "total_cash": -899800,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_sale": 3000,
+        "cash_amendment": 0,
+        "cash_purchase": 902800,
+        "stock": 75041601
+      }
+    },
+    "total": 74141801,
+    "created_at": 1791285032656,
+    "id": "s5CFMgvaPNojnYMfa18D"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 43.75,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 94996371,
+        "cash_sale": 206650,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95203021,
+    "total_cash": 206650,
+    "total_credit": 0,
+    "created_at": 1792425063772,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-19T00:00:00.000",
+    "id": "sEMxHYV7xZkqS9JsvN5g"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 53550,
+        "cash_purchase": 25100,
+        "expense": 0,
+        "stock": 95597306,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95625756,
+    "total_cash": 28450,
+    "total_credit": 0,
+    "created_at": 1792601375922,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-21T00:00:00.000",
+    "id": "sOgSd5THbGdV6zcQ5ta5"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "stock": 94931551,
+        "cash_sale": 343900,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total": 95275451,
+    "total_cash": 343900,
+    "total_credit": 0,
+    "created_at": 1791733905876,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-11T00:00:00.000",
+    "id": "suZOUOd4JQ11pXsPBOMc"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
+    "total_cash": 0,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-07T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_sale": 0,
+        "cash_amendment": 0,
+        "stock": 75547881
+      }
+    },
+    "total": 75547881,
+    "created_at": 1791384747872,
+    "id": "tHQWPyqizA7mSizcNae3"
+  },
+  {
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "till_id": "onSO0uPfTMUfBz34lbZXAaBKGgk1",
+    "total_cash": 155900,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "report_date": "2026-10-08T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 46600,
+        "expense": 0,
+        "cash_sale": 202500,
+        "cash_amendment": 0,
+        "stock": 6398840
+      }
+    },
+    "total": 6554740,
+    "created_at": 1791454564783,
+    "id": "uAGssMXN4rcJghskGpxq"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Purchaser",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-04T00:00:00.000",
+    "total_cash": 91000,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 40700,
+        "cash_sale": 131700,
+        "stock": 73805216
+      }
+    },
+    "total": 73896216,
+    "created_at": 1791130262809,
+    "id": "uOsaoUZrMLP4qEOzjgK0"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 2500,
+        "cash_purchase": 40000,
+        "expense": 0,
+        "stock": 6160525,
+        "cash_sale": 124200,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 6247225,
+    "total_cash": 86700,
+    "total_credit": 0,
+    "created_at": 1788961620535,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-07T00:00:00.000",
+    "id": "vx4cg8demDlpWna0vWyd"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-27T00:00:00.000",
+    "total": 56107281,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 13000,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 6400,
+        "cash_purchase": 135600,
+        "stock": 55950531,
+        "cash_sale": 298950
+      }
+    },
+    "total_cash": 156750,
+    "created_at": 1790523876246,
+    "id": "wMpmBo31tDWSdCMJw8hy"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 148800,
+        "cash_purchase": 352500,
+        "expense": 0,
+        "stock": 97112387,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 96908687,
+    "total_cash": -203700,
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-31T00:00:00.000",
+    "created_at": 1793469456143,
+    "id": "wqyJMmFs2YucCTfeoy2V"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "Shop 1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "total_cash": -800,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_sale_return": 3600,
+        "cash_sale": 2800,
+        "stock": 75468131
+      }
+    },
+    "total": 75467331,
+    "created_at": 1791361985751,
+    "id": "xUXkMWWphBTJfnjhheR2"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 15000,
+        "cash_purchase": 5995200,
+        "expense": 0,
+        "stock": 14432825,
+        "cash_sale": 192200,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 8644825,
+    "total_cash": -5788000,
+    "total_credit": 0,
+    "created_at": 1788961576929,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-08T00:00:00.000",
+    "id": "yOydRVCAeohwEOQBLSXR"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-18T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase": 3510025,
+        "stock": 49662660,
+        "cash_sale": 132050
+      }
+    },
+    "total": 46284685,
+    "total_cash": -3377975,
+    "created_at": 1789746285747,
+    "id": "yP84BCDh96iO4srZVo4Y"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase_return": 0,
+        "cash_purchase": 192000,
+        "expense": 0,
+        "stock": 96011086,
+        "cash_sale": 0,
+        "cash_amendment": 0
+      }
+    },
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total": 95819086,
+    "total_cash": -192000,
+    "total_credit": 0,
+    "created_at": 1791993126220,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-14T00:00:00.000",
+    "id": "yf1YF9fr1liAXD8aTGzp"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "wZa3GxIXhAOaYUnay78CO2aP5XL2",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-10-06T00:00:00.000",
+    "summary": {
+      "service_charges": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "discount": 87.0,
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 93600,
+        "cash_purchase": 381200,
+        "stock": 75468131,
+        "cash_sale": 43600
+      }
+    },
+    "total": 75224131,
+    "total_cash": -244000,
+    "created_at": 1791361979985,
+    "id": "zFPd3gfC0G0cvxrk0axX"
+  },
+  {
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "till_id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
+    "total_credit": 0,
+    "type": "",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "report_date": "2026-09-29T00:00:00.000",
+    "total_cash": 277250,
+    "summary": {
+      "service_charges": 0.0,
+      "discount": 0.0,
+      "tax": 0.0,
+      "credit": {
+        "credit_purchase": 0,
+        "credit_sale": 0,
+        "credit_purchase_return": 0,
+        "credit_sale_return": 0,
+        "credit_amendment": 0,
+        "credit_wastage": 0
+      },
+      "cash": {
+        "cash_wastage": 0,
+        "cash_sale_return": 0,
+        "cash_purchase": 0,
+        "expense": 0,
+        "cash_amendment": 0,
+        "cash_purchase_return": 240000,
+        "cash_sale": 37250,
+        "stock": 55426581
+      }
+    },
+    "total": 55703831,
+    "created_at": 1790698550417,
+    "id": "zVtFKZOrNEVUZQHdIiYj"
   }
 ]

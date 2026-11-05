@@ -11,6 +11,8 @@ dependencies:
   dotenv: ^3.0.0
   firebase_admin_sdk: ^0.0.6
   google_cloud_firestore: ^0.5.5
+  intl: ^0.20.3
+  pdf: ^3.13.1
   postgres: ^3.5.7
   shelf: ^1.4.2
   shelf_router: ^1.1.4

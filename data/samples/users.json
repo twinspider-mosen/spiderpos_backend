@@ -1,6 +1,5 @@
 [
   {
-    "id": "048aqC9Sk3VqpUfNmvExE67guBA3",
     "name": "till",
     "email": "till@dev.com",
     "pass": "pass1234",
@@ -28,10 +27,10 @@
       "amendment": 0,
       "purchase": 8,
       "purchase_return": 0
-    }
+    },
+    "id": "048aqC9Sk3VqpUfNmvExE67guBA3"
   },
   {
-    "id": "18KtHMtIi2ShzlzNCigNgEnYp1q1",
     "name": "Demo",
     "email": "store@demo.com",
     "pass": "pass1234",
@@ -57,10 +56,10 @@
       "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
       "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
       "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
-    ]
+    ],
+    "id": "18KtHMtIi2ShzlzNCigNgEnYp1q1"
   },
   {
-    "id": "8eqstbiK0tSeQIBDwNuROopr5zA2",
     "name": "Shop 2",
     "email": "shop2@dev.com",
     "pass": "pass1234",
@@ -82,10 +81,10 @@
     "createdAt": "2026-10-05T13:08:55.737Z",
     "device_ids": [
       "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
-    ]
+    ],
+    "id": "8eqstbiK0tSeQIBDwNuROopr5zA2"
   },
   {
-    "id": "D0kdsRmVYSYaQFcf3sCT7JfByPd2",
     "name": "Shop 3",
     "email": "shop3@breakedge.com",
     "pass": "shop3@2026",
@@ -110,10 +109,10 @@
       "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
       "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
       "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
-    ]
+    ],
+    "id": "D0kdsRmVYSYaQFcf3sCT7JfByPd2"
   },
   {
-    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
     "name": "Store",
     "email": "store@breakedge.com",
     "pass": "store@2026",
@@ -142,10 +141,10 @@
       "sale": 167
     },
     "product_count": 1328,
-    "device_id": "{A4D114E9-F622-4CCE-9C5A-0998E5955843}"
+    "device_id": "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
+    "id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2"
   },
   {
-    "id": "EHuYLjMj9NPWBWT9Fi1CIAT9HmX2",
     "name": "Manager",
     "email": "manager@dev.com",
     "pass": "pass1234",
@@ -172,10 +171,10 @@
       "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
       "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
       "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
-    ]
+    ],
+    "id": "EHuYLjMj9NPWBWT9Fi1CIAT9HmX2"
   },
   {
-    "id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1",
     "name": "Purchaser",
     "email": "purchaser@breakedge.com",
     "pass": "purchaser@breakedge",
@@ -202,11 +201,11 @@
       "sale_return": 0,
       "wastage": 0,
       "purchase_return": 11,
-      "purchase": 24
-    }
+      "purchase": 25
+    },
+    "id": "FF8LFjoWxpVhPlnS5wXHyNiS7Gz1"
   },
   {
-    "id": "OiAJcDLK0caPp0aBCYuAUsuAMW63",
     "name": "Manager",
     "email": "manager@breakedge.com",
     "pass": "manager@2026",
@@ -233,10 +232,10 @@
       "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
       "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
       ""
-    ]
+    ],
+    "id": "OiAJcDLK0caPp0aBCYuAUsuAMW63"
   },
   {
-    "id": "fOKnHPGC0OOlkd5tIEcyCwCshy52",
     "name": "Shop 1",
     "email": "shop1@breakedge.com",
     "pass": "shop1@2026",
@@ -261,11 +260,11 @@
       "purchase_return": 0,
       "wastage": 0,
       "sale_return": 1,
-      "sale": 94
-    }
+      "sale": 107
+    },
+    "id": "fOKnHPGC0OOlkd5tIEcyCwCshy52"
   },
   {
-    "id": "onSO0uPfTMUfBz34lbZXAaBKGgk1",
     "name": "Shop 1",
     "email": "shop@dev.com",
     "pass": "pass1234",
@@ -287,6 +286,67 @@
     },
     "device_ids": [
       "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
-    ]
+    ],
+    "id": "onSO0uPfTMUfBz34lbZXAaBKGgk1"
+  },
+  {
+    "name": "Developer",
+    "email": "store@dev.com",
+    "pass": "pass1234",
+    "order_count": {
+      "sale": 0,
+      "sale_return": 0,
+      "wastage": 0,
+      "amendment": 0,
+      "purchase": 0,
+      "purchase_return": 0
+    },
+    "role": "store",
+    "subscription_status": "active",
+    "till_no": "",
+    "store_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "setting_id": "t8oX8plWTfhwAg586IvzFBX8pHr2",
+    "createdAt": "2026-06-08T08:15:08.423Z",
+    "category_count": 51,
+    "product_count": 42,
+    "device_id": "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
+    "device_ids": [
+      "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
+      "6CB8FF3C-90BF-5269-92BE-2E499E30F16E",
+      "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
+      "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
+      "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
+    ],
+    "id": "t8oX8plWTfhwAg586IvzFBX8pHr2"
+  },
+  {
+    "name": "Shop 2",
+    "email": "shop2@breakedge.com",
+    "pass": "shop2@2026",
+    "role": "till",
+    "till_no": "Shop 2",
+    "category_count": 0,
+    "product_count": 0,
+    "store_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "setting_id": "DPOmE2taGzQc2pjnE3E6kLJcQBp2",
+    "createdAt": "2026-06-24T10:04:41.196Z",
+    "subscription_status": "active",
+    "device_id": "{94C53A3C-7B83-4C8E-B251-D30AEA9176BD}",
+    "device_ids": [
+      "{CBB8CE42-473A-4AD1-9B6C-08DD3CDD0621}",
+      "{A4D114E9-F622-4CCE-9C5A-0998E5955843}",
+      "{0A6B6472-DA3A-4C9B-96F5-9EDB7949F6EF}",
+      "{94C53A3C-7B83-4C8E-B251-D30AEA9176BD}",
+      "{2C0749E5-B7F6-4096-B371-E8D69562E02B}"
+    ],
+    "order_count": {
+      "amendment": 0,
+      "wastage": 0,
+      "sale_return": 0,
+      "purchase": 20,
+      "purchase_return": 10,
+      "sale": 187
+    },
+    "id": "wZa3GxIXhAOaYUnay78CO2aP5XL2"
   }
 ]

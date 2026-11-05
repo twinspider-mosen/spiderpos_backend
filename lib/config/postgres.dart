@@ -29,6 +29,8 @@ class PostgresConfig {
     final username = env['DB_USER'] ?? Platform.environment['DB_USER'] ?? 'postgres';
     final password = env['DB_PASSWORD'] ?? Platform.environment['DB_PASSWORD'];
 
+    final sslEnabled = (env['DB_SSL'] ?? Platform.environment['DB_SSL']) == 'true';
+
     final endpoint = Endpoint(
       host: host,
       port: port,
@@ -39,7 +41,10 @@ class PostgresConfig {
 
     _pool = Pool.withEndpoints(
       [endpoint],
-      settings: const PoolSettings(maxConnectionCount: 10),
+      settings: PoolSettings(
+        maxConnectionCount: 10,
+        sslMode: sslEnabled ? SslMode.require : SslMode.disable,
+      ),
     );
 
     return _pool!;
@@ -58,7 +63,14 @@ class PostgresConfig {
 
     for (final file in files) {
       final sql = await file.readAsString();
-      await pool.execute(sql);
+      final statements = sql
+          .split(';')
+          .map((s) => s.trim())
+          .where((s) => s.isNotEmpty);
+
+      for (final statement in statements) {
+        await pool.execute(statement);
+      }
     }
   }
 

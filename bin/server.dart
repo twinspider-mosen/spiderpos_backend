@@ -8,6 +8,7 @@ import 'package:spiderpos_server/spiderpos_server.dart';
 
 Future<void> main() async {
   await FirebaseConfig.initialize();
+  await PostgresConfig.initialize();
 
   final firebaseService = FirebaseService();
   final tableController = TableController();
@@ -76,6 +77,15 @@ Future<void> main() async {
     }
   });
 
+  final reportsController = PnlReportController();
+  final employeeCommissionController = EmployeeCommissionController();
+  final stockReportController = StockReportController();
+  router.get('/api/reports', reportsController.handleIndex);
+  router.get('/api/reports/employee-commission', employeeCommissionController.handleReport);
+  router.mount('/api/reports/employee-commission/', employeeCommissionController.router.call);
+  router.get('/api/reports/stock', stockReportController.handleReport);
+  router.mount('/api/reports/stock/', stockReportController.router.call);
+  router.mount('/api/reports/', reportsController.router.call);
   router.mount('/api/tables/', tableController.router.call);
   router.mount('/api/', tableController.router.call);
 
